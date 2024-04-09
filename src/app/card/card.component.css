@@ -1,0 +1,19 @@
+.card {
+	width: 280px;
+	margin: 5px;
+	float:left;
+	border-width:1px;
+	border-style:solid;
+}
+.header {
+	color: blue
+}
+.content{
+  color: yellowgreen;
+}
+.footer{
+  color: blueviolet;
+}
+.card{
+  background-color: black;
+}
